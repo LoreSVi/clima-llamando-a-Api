@@ -1,5 +1,6 @@
 Esta es una aplicación de clima completamente funcional. Los usuarios podrán ingresar una ciudad y obtener información actualizada sobre el clima en esa ubicación.
 
+Link para ver el proyecto [consumiendo Api Clima con JS](https://clima-consumiendo-apy-js.netlify.app/).
 
 ## Explicación del código
 
